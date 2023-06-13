@@ -1,0 +1,38 @@
+Name: Vamsi Rednam
+mail: vamsirednam9@gmail.com
+contact: +917893214387
+
+ 	I am talented and passionate frontend developer with a keen interest in website development. With a creative mindset and a strong attention to detail, Me enjoys creating visually appealing and user-friendly websites that provide seamless experiences to users.
+
+
+
+Shopping API;;;
+
+This is a simple shopping interface implemented using HTML, JavaScript, and the Bootstrap framework. The interface allows users to browse products, add them to a cart, and view the cart items.
+
+Features;;;
+Select and filter products by category
+View product details, including title, price, rating, and image
+Add products to the cart
+View the cart items in a modal window
+
+
+Usage;;;
+Open the index.html file in a web browser.
+Upon opening the application, you will see a header with the title "Shopping Online" and a shopping cart icon.
+The left column displays a category select dropdown. Choose a category to filter the products accordingly.
+The middle column shows the product cards dynamically generated using JavaScript. Each card displays the product's image, title, price, rating, and an "Add to Cart" button.
+Clicking the "Add to Cart" button will add the selected product to the cart.
+The right column features a button labeled "Your Cart Items" with a cart icon. Clicking this button will open a modal window displaying the cart items.
+In the cart modal, you can view the products you added to the cart, including their titles, prices, and preview images.
+Close the cart modal by clicking the close button or anywhere outside the modal.
+API Integration
+This application integrates with the Fake Store API to fetch and display product data. The API provides endpoints to retrieve product categories and individual products.
+
+Contributing;;;
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+License;;;
+This project is licensed under the MIT License.
+
+Feel free to customize the README file to include additional information or instructions specific to your project.
